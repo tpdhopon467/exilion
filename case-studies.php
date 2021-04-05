@@ -187,7 +187,7 @@
     <div class="site_container">
         <header>
             <div class="site_center_wrapper">
-                <a href="/"><img src="index.php" alt="logo"></a>
+                <a href="/"><img src="wp-content/themes/exillion/img/logo.png" alt="logo"></a>
                 <div class="ico_hamburger"></div>
                 <nav class="navbar navbar-default">
                     <div class="collapse navbar-collapse" id="topnav">

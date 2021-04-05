@@ -232,7 +232,7 @@
 
                 </div>
                 <div class="services_button">
-                    <a href="services.html" class="button button_sqr">See more</a>
+                    <a href="services.php" class="button button_sqr">See more</a>
                 </div>
             </div>
             <div class="slide_2_container" style="background: #fff url(wp-content/themes/exillion/img/main_2.png) center center no-repeat; background-size: cover;background-attachment: fixed;">
@@ -243,7 +243,7 @@
 
 
                 </div>
-                <a href="case-studies.html" class="button button_opacity">See our projects</a>
+                <a href="case-studies.php" class="button button_opacity">See our projects</a>
             </div>
             <div class="expertise_container">
                 <h2>EXPERTISE</h2>
